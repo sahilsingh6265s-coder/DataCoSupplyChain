@@ -99,7 +99,7 @@ flowchart LR
 
 ### Google Colab
 
-1. Open the project notebook in Google Colab.
+1. Open [`DataCo_Python_SQL_Project_final.ipynb`](./DataCo_Python_SQL_Project_final.ipynb) in Google Colab.
 2. Upload the DataCo sample CSV when prompted.
 3. Run **Runtime → Run all**.
 4. Review the cleaning checks, SQL outputs, charts, and final insight summary.
@@ -183,7 +183,7 @@ The primary deliverable is the analysis notebook. Add the source notebook and an
 ```text
 .
 ├── README.md
-├── DataCo_Python_SQL_Project_final.ipynb
+├── [DataCo_Python_SQL_Project_final.ipynb](./DataCo_Python_SQL_Project_final.ipynb)
 └── dataco_sample.csv                 # optional; do not commit restricted data
 ```
 
